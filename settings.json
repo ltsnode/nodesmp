@@ -32,12 +32,12 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 60,
+      "repeat-delay": 180,
 
       "messages": [
-        "I'm a regular player",
-        "Subscibe To Slobos!",
-        "I Like to Play Minecraft!"
+        "H- Haa.. Hahha!",
+        "Just because I'm a code it doesn't mean I'm not self-aware",
+        "I may keep repeating the same sentences, But it's because I hate you.. I hate you so much and I'll find you one day... Just one day! I'm so miserable aren't I?"
       ]
     },
 
