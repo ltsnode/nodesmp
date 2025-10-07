@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "Sigma", 
+    "username": "Bloodyline", 
     "password": "",
     "type": "mojang"
   },
@@ -32,7 +32,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 180,
+      "repeat-delay": 60,
 
       "messages": [
         "I'm gay!",
