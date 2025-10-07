@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "AFKBot", 
+    "username": "Sigma", 
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "SlobosVideos.aternos.me", 
-    "port": 13855,   
+    "ip": "nodesmp.aternos.me", 
+    "port": 28957,   
     "version": "1.12.1"   
   },
   
@@ -32,12 +32,12 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 60,
+      "repeat-delay": 180,
 
       "messages": [
-        "I'm a regular player",
-        "Subscibe To Slobos!",
-        "I Like to Play Minecraft!"
+        "I'm gay!",
+        "Very gay...",
+        "Ngh~ I'm so fuhing gay!!"
       ]
     },
 
