@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "Bloodyline", 
+    "username": "BloodyLine", 
     "password": "",
     "type": "mojang"
   },
@@ -35,9 +35,9 @@
       "repeat-delay": 60,
 
       "messages": [
-        "I'm gay!",
-        "Very gay...",
-        "Ngh~ I'm so fuhing gay!!"
+        "I'm a regular player",
+        "Subscibe To Slobos!",
+        "I Like to Play Minecraft!"
       ]
     },
 
